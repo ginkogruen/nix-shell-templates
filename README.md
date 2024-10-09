@@ -10,9 +10,13 @@ Replace `<template>` with the name of the language template you would like to us
   nix flake init -t github:ginkogruen/nix-shell-templates#<template>
 ```
 
-## Other template repositories
+## Other repositories
 
-I may have taken some *inspiration* from these.
+I may have taken some *inspiration* from these:
 
 - [NixOS/templates](https://github.com/NixOS/templates)
 - [nix-community/templates](https://github.com/nix-community/templates)
+
+Additional repositories of interest:
+
+- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv)
